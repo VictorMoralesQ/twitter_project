@@ -1,0 +1,357 @@
+,text,sentiment,user,retweets,likes,location,year,month,day,hour
+0,impressive   visit       blueorigin   huntsville   engine   production   facility   nasa     proud     partner     blue   origin   especially       blue   moon   human   landing   system       help   ensure     steady   cadence     astronauts       moon     live     work       venture     mars,Posiitve,@SenBillNelson,854,4126,Maldives,2023,10,27,14
+1,nominal   run,Neutral,@torybruno,424,3985,Belgium,2023,6,8,1
+2,honored           journey     nasa     land   astronauts       moon       time     stay   together       solving     boil   problem     making   lox lh2     storable   propellant   combination   pushing   forward     state       art       deep   space   missions   artemis   moontomars   https www blueorigin com news nasa selects blue origin mission moon,Neutral,@JeffBezos,2131,13562,Iran,2023,5,19,15
+3,big   milestone   kudos     congrats       whole   zoox   team,Posiitve,@JeffBezos,837,5353,Zimbabwe,2023,2,13,20
+4,episode   3     last     us     unbelievably   good   story   telling         awe     nick_offerman   performance   incredible,Posiitve,@JeffBezos,1386,29744,Iran,2023,1,31,16
+5,thank     bill     tim     nice   gratitude,Posiitve,@JeffBezos,246,2969,Cuba,2023,1,28,19
+6,  crave   experts       new   thing     almost     experts     expert       old   thing,Neutral,@kevin2kelly,412,2228,France,2023,1,10,23
+7,  year   bezos   day   1   families   fund   grants   go     40   incredible   groups   working     end   homelessness       u     5   years     given       500   million     167   orgs     helping   expand     support     families     need   honored     support     groups   bezosdayonefund org day1fami,Neutral,@JeffBezos,925,7006,Iran,2022,11,22,12
+8,werner     pulling   back     curtain     amazon   history       distributed   computing   manifesto    read     25 year old   internal   doc     changed     way   systems     designed     built     amazon    learn       https go aws 3tgvc6o   aws,Neutral,@awscloud,650,3158,Iceland,2022,11,17,1
+9,    announced     new   courage     civility   award   recipient      dollyparton     leads       heart       put     100   million   award     great   use   helping     many   people     joins   prior   awardees   vanjones68     chefjoseandres    congrats   dolly,Posiitve,@JeffBezos,1314,9069,Australia,2022,11,12,22
+10,yep     probabilities       economy   tell       batten       hatches,Neutral,@JeffBezos,1375,8582,Argentina,2022,10,18,23
+11,  hutch     going       incredible   things        https www bloomberg com news articles 2022 10 12 bezos family donate 711 million cancer center seattle,Posiitve,@JeffBezos,651,6075,Mali,2022,10,12,19
+12,invention       still   improve   even     axe   damn,Neutral,@JeffBezos,3720,47994,Netherlands,2022,10,9,23
+13,  bezos   earth   fund     granted   110m     protect     congo   basin     critical   ecosystem     world   cannot   afford     lose    watch     learn       collaborating     partners   across   governments   businesses     civil   society     conserve   30       region     2030    30by30,Neutral,@BezosEarthFund,496,2868,Jamaica,2022,10,6,18
+14,go   jsalke     amazonstudios,Neutral,@JeffBezos,196,1553,Kiribati,2022,10,5,18
+15,https frontofficesports com tnf draws record prime subscriptions amazon,Neutral,@JeffBezos,295,2449,Tunisia,2022,9,20,22
+16,https www amazon science blog 20b parameter alexa model sets new marks shot learning,Neutral,@JeffBezos,385,2686,Japan,2022,9,10,18
+17,    want   unusual   results     going     need     missionary   brilliant   organizational   misfits       team    https www wsj com articles rings power lotr amazon jd payne patrick mckay 11662605833,Neutral,@JeffBezos,471,4161,Luxembourg,2022,9,10,2
+18,    rather   excitable   baby   elephant   chasing   birds      vc     borås   zoo,Neutral,@JamesMelville,1284,8989,Indonesia,2022,9,9,9
+19,    think       one     better   personified   duty     deepest   condolences         brits   mourning     passing   today,Neutral,@JeffBezos,1178,22149,North Macedonia,2022,9,8,18
+20,    someone   supposedly   working     make     world   better       think     wow,Posiitve,@JeffBezos,9670,70044,Sweden,2022,9,8,16
+21,go   middle earth   https www bloomberg com news articles 2022 09 03 amazon lord rings series draws 25 million debut,Neutral,@JeffBezos,770,11494,United States,2022,9,3,22
+22,good   point   thank         excited         working  ,Posiitve,@JeffBezos,182,2270,India,2022,9,3,15
+23,think       viewing   time     could   save         made   one   series   house     game       lord     thrones       dragon   rings,Neutral,@ConanOBrien,1229,16287,Namibia,2022,9,2,15
+24,  first   job     still       great   burger   happy   sunday,Posiitve,@JeffBezos,8448,196113,Egypt,2022,8,28,21
+25,leaders       get     far   ahead,Posiitve,@JeffBezos,1087,9052,Czech Republic,2022,8,8,17
+26,  friend       friend     many   tom   alberg     passed   away         early   investor     amazon     served       board     23   years   tom       visionary     also       wonderful   good   man         lucky             life   tom         miss     dearly,Posiitve,@JeffBezos,476,10871,Iceland,2022,8,6,21
+27,new   trailer   released     comic con   today   theringsofpower,Neutral,@JeffBezos,754,6150,El Salvador,2022,7,22,19
+28,let   go,Neutral,@JeffBezos,438,4700,Colombia,2022,7,22,14
+29,first   full length   trailer   theringsofpower,Neutral,@JeffBezos,1325,9755,Saudi Arabia,2022,7,14,15
+30,  totally   agree       whatever     politics       cannot   ignore     past   three   hundred   years     economic   research     understanding   people   argue           side     science   let   use     education         please,Neutral,@bgurley,414,3533,Czech Republic,2022,7,4,3
+31,ouch   inflation     far     important     problem       white   house     keep   making   statements   like       either   straight   ahead   misdirection       deep   misunderstanding     basic   market   dynamics,Negative,@JeffBezos,29120,180280,Greece,2022,7,3,1
+32,looks   like   meat   back       menu   boys          exclusive   first look   photos       orcs       lord       rings     rings     power     getting     close   look           check       exclusive   interview   right     https bit ly 39eiy6o   lotronprime,Neutral,@IGN,1433,9658,Indonesia,2022,6,21,15
+33,  love     dad,Posiitve,@JeffBezos,1612,65427,Gambia,2022,6,19,23
+34,incredible,Posiitve,@JeffBezos,815,9318,Canada,2022,5,31,21
+35,    truly   beautiful   observation,Posiitve,@JeffBezos,795,10733,Morocco,2022,5,26,15
+36,thanks       history   shout       many   twists     turns     failures     successes       23   years,Neutral,@JeffBezos,677,6543,Laos,2022,5,24,2
+37,https time com collection 100 influential people 2022 6177765 andy jassy,Neutral,@JeffBezos,239,2835,Central African Republic,2022,5,24,2
+38,      old   2006   businessweek   framed       reminder     risky   bet     wall   street   disliked     aws     generated   revenue         62   billion   last   year,Negative,@JeffBezos,12061,113311,Belize,2022,5,18,19
+39,  left leaning   economists     political   operatives       privately   critical     dems   approach     inflation   much   quieter   publicly     want       good   allies           friends     favors     withholding   good   advice     sometimes   tough   love   https www washingtonpost com opinions 2022 05 16 democrats need tough love economy inflation greedflation biden,Posiitve,@crampell,255,1767,South Africa,2022,5,17,14
+40,    looking       scary   bedtime   reading,Negative,@JeffBezos,1539,21003,France,2022,5,17,14
+41,  best     add   another   3 5   trillion     federal   spending     failed           succeeded   inflation   would     even   higher         today     inflation   today         40   year   high,Neutral,@JeffBezos,2952,31029,Canada,2022,5,16,16
+42,look     squirrel         white   house   statement       recent   tweets     understandably   want     muddy     topic     know   inflation   hurts     neediest         unions     causing   inflation     neither     wealthy   people    remember     administration   tried,Negative,@JeffBezos,7280,58920,Uruguay,2022,5,16,16
+43,25   years   ago   yesterday   amzn   went   public       grateful   dead   would   say       long   strange   trip            far     smooth   lots     risk taking   lots     invention   lots     mistakes     much     still         better       trade     ride     anything,Neutral,@JeffBezos,1945,31156,New Zealand,2022,5,16,14
+44,  fact     administration   tried   hard     inject   even     stimulus       already   heated   inflationary   economy       manchin   saved         inflation       regressive   tax       hurts     least   affluent   misdirection     help     country,Neutral,@JeffBezos,7224,54984,Zimbabwe,2022,5,15,14
+45,  newly   created   disinformation   board     review     tweet     maybe     need     form     new   non   sequitur   board   instead   raising   corp   taxes     fine     discuss   taming   inflation     critical     discuss   mushing     together       misdirection,Neutral,@JeffBezos,18929,155020,Mozambique,2022,5,14,2
+46,slide   decks     maybe   useful     persuasion     think   sales   calls         want       internal   decision   meetings,Neutral,@JeffBezos,232,3545,Egypt,2022,5,13,19
+47,help             edit     typo     twitter   oh   right,Negative,@JeffBezos,329,6537,North Macedonia,2022,5,13,19
+48,slide   decks   hide     shallow   thinking   narratively   structured   memos     harder     write       require   better   thinking     worth  ,Neutral,@JeffBezos,1114,12433,Taiwan,2022,5,13,18
+49,big   potential,Posiitve,@JeffBezos,166,2078,Slovenia,2022,5,13,17
+50,  dad       intense   hard   worker       also   warm     teaches     easy   smile     self deprecating   humor     brother   sister       could         better   role   model     love           proud           well deserved   recognition     statueellisfdn,Posiitve,@JeffBezos,296,3537,Israel,2022,5,13,16
+51,  hedge   fund   ceo       buy   one   get   one   auction       seat       blue   origin   space   flight     8   million         giving   away     seats     educators,Neutral,@CBSMornings,117,836,Nigeria,2022,5,13,13
+52,agree   100   would   add   civility     hard   name   calling     ad   hominem   attacks     easy         use       makes     harder     work   together,Neutral,@JeffBezos,391,4694,Pakistan,2022,5,12,23
+53,congrats   katya,Posiitve,@JeffBezos,246,2676,Spain,2022,5,9,23
+54,  pulitzers   gold   medal   prize     public   service     given       individual         entire   organization   huge   kudos     congrats       whole   washington   post   team,Posiitve,@JeffBezos,129,1262,New Zealand,2022,5,9,21
+55,mom         idea                  kept   us     safe   inside     heart   thank       sharing     strength           sacrifices     made     love  ,Posiitve,@JeffBezos,1160,31228,Paraguay,2022,5,8,15
+56,  many       elected   officials     still   using     techniques https www wsj com articles children use conflict win popularity 11651774475 st hxy6aqm6k9vvhtv reflink article_copyurl_share,Neutral,@JeffBezos,827,7148,Egypt,2022,5,8,2
+57,bill     without   doubt   one       smartest   people     know     always   worth   listening       people   dramatically   underestimate     remarkableness       bull   run     things     unstoppable            markets   teach     lessons       painful,Neutral,@JeffBezos,1458,12707,Kiribati,2022,4,30,23
+58,  damn   cool   congrats     mimi       whole   mars   helicopter   team,Posiitve,@JeffBezos,249,3349,Greece,2022,4,28,21
+59,      good   use     twitter,Posiitve,@JeffBezos,257,6687,Guinea,2022,4,27,14
+60,    see   musk     extremely   good     navigating     kind     complexity,Posiitve,@JeffBezos,640,10920,Maldives,2022,4,26,1
+61,    answer       question     probably         likely   outcome       regard     complexity     china     tesla   rather     censorship     twitter,Neutral,@JeffBezos,495,6960,Paraguay,2022,4,26,1
+62,agree           fascinating   piece       one   drawn       cartoon   thanks       link     reco,Posiitve,@JeffBezos,305,4924,Argentina,2022,4,26,0
+63,interesting   question       chinese   government     gain     bit     leverage       town   square,Neutral,@JeffBezos,4804,26571,Brazil,2022,4,25,23
+64,one       many   steps     making     meet     climate   pledge   commitment,Neutral,@JeffBezos,173,2081,Qatar,2022,4,21,4
+65,pls   consider   taking     moment     voting     van   jones     uncommon   ground       passionate   courageous   leader       big   tent   approach       unifier     stays   focused       mission     takes   help       corners           bit   better         people   took     approach,Neutral,@JeffBezos,103,1148,Honduras,2022,4,19,21
+66,    short   version https www instagram com reel ccglk3flizj igshid ymmymta2m2y,Neutral,@JeffBezos,107,1142,Zambia,2022,4,19,1
+68,  piece     jonathan   haidt     thoughtful   beautifully   written     important     worth     long   read   https www theatlantic com magazine archive 2022 05 social media democracy trust babel 629369,Posiitve,@JeffBezos,1577,9895,Ireland,2022,4,19,1
+69,wow       good   every   would   startup   founder     read     everyone     cares       future             way   forward   sounds   like       whining     cynicism     fills   twitter       media    https bariweiss substack com p case american seriousness r,Neutral,@paulg,811,4452,Bulgaria,2022,4,18,13
+70,    portion   worked     great     makes     easy     employees     want     volunteer   https www geekwire com 2020 photos inside amazons new 8 floor family homeless shelter attached seattle hq,Posiitve,@JeffBezos,1835,35036,Honduras,2022,4,10,20
+71,  bill     magical   thinking   arrives     unpredictable   timing     thunderous   force,Neutral,@pmarca,310,2051,China,2022,4,9,22
+72,2 2     evaluates   many   factors   including     ability     advance   skills   growth   company   stability   external   opportunity   company   affinity     gender   diversity    thank           every   one     amazon   employees         hard   work     dedication       day   1,Posiitve,@JeffBezos,110,1569,Madagascar,2022,4,6,18
+73,  must     better   every   day       know       even           super   proud     amazon     ranked     1   place     people   want     work     linkedin     methodology   uses   linkedin   unique   data   set       810   million   members   1 2,Posiitve,@JeffBezos,536,6407,Belgium,2022,4,6,18
+74,    opened     second   humanitarian   aid   hub     help   ukrainian   refugees       one     poland   like     first   one     opened     slovakia       fulfillment   center   dedicated       issue   using     logistics     distribution   experience     help,Neutral,@JeffBezos,451,5456,Guinea-Bissau,2022,4,1,0
+75,  great   meeting       learning       work   thomas   incredible     inspiring,Posiitve,@JeffBezos,225,2185,Iran,2022,3,31,2
+76,https time com collection time100 companies 2022 6159473 amazon ceo andy jassy interview,Neutral,@JeffBezos,138,1370,Uruguay,2022,3,30,18
+77,two   legends       booth   coming     nflonprime,Neutral,@JeffBezos,110,982,Gabon,2022,3,23,22
+78,amazon   opens   supply   hub     ukrainian   refugees     largest   humanitarian   aid   facility   ever   https www geekwire com 2022 amazon opens supply hub ukrainian refugees largest humanitarian aid facility ever,Posiitve,@geekwire,122,779,Ireland,2022,3,22,20
+79,    fortunate     witness     beauty     colombia   chiribiquete   national   park       amazon   jeffbezos   lauren   sánchez   bezosearthfund   drandrewsteer       colombia   meeting     pres   ivanduque     grantees     advance     commitment     30x30     preserve   nature,Posiitve,@BezosEarthFund,277,1527,Cuba,2022,3,9,20
+80,lotr   super   bowl   teaser,Neutral,@JeffBezos,1238,10298,Chile,2022,2,14,1
+81,exclusive     v f       first   official   look     primevideo     lord       rings   theringsofpower   welcome   back     middle earth   vntyfr com y9kiqsf,Posiitve,@VanityFair,3379,9323,Cameroon,2022,2,10,12
+82,alexa   play     new   super   bowl   ad,Neutral,@JeffBezos,948,8666,Israel,2022,2,7,15
+83,      year   ago       white   house   launched   justice40   proud       earth   fund   team     helping   drive     forward,Posiitve,@JeffBezos,171,1690,Bulgaria,2022,1,28,20
+84,2 2,Neutral,@JeffBezos,677,6832,Japan,2022,1,19,15
+85,coming     september   2nd     wait         see     lotronprime    1 2,Neutral,@JeffBezos,1969,26521,Australia,2022,1,19,15
+86,thanks   jonerlichman   25   years   ago   today   note     netscape   browser,Neutral,@JeffBezos,1118,10320,Dominican Republic,2022,1,5,17
+87,2 2       edwardsville     know       amazon   team     committed     supporting               side       crisis     extend     fullest   gratitude         incredible   first   responders       worked     tirelessly       site,Posiitve,@JeffBezos,181,2677,Canada,2021,12,12,1
+88,  news     edwardsville     tragic     heartbroken       loss       teammates         thoughts     prayers         families     loved   ones   1 2,Negative,@JeffBezos,372,5000,Kiribati,2021,12,12,1
+89,loved       michaelstrahan     thursday   night   football   gave       little   something     pack       flight,Posiitve,@JeffBezos,305,4395,Germany,2021,12,10,14
+90,congrats     dj     one     deserving           people   champ   award,Posiitve,@JeffBezos,174,2498,Indonesia,2021,12,10,0
+91,today     washington   post       world   lost     exceptional   journalist     remarkable   man   long time   editorial   page   editor   fred   hiatt       miss     thoughtfulness   professionalism     warm   friendship     thoughts         beloved   family       difficult   time,Neutral,@JeffBezos,249,2795,Jamaica,2021,12,6,19
+92,    pleased     announce   443m     grants     advance   environmental   justice   conserve     restore   nature     improve   monitoring     accountability     44   grants     help   enable         world   leading   change   agents     act   quickly       challenges       decisive   decade,Posiitve,@BezosEarthFund,243,1543,Peru,2021,12,6,13
+93,welcome   aboard   michael,Posiitve,@JeffBezos,314,3550,Mali,2021,11,24,18
+94,2 2     year   grants   go     32   groups   led     experts       making     difference       communities       funds     help       expand     important   work   https www bezosdayonefund org,Posiitve,@JeffBezos,134,1308,Mali,2021,11,17,13
+95,    fourth   year       row     bezos   day   1   families   fund     making   donations     organizations   helping   families     need   across     u     grants     provide   support   including   housing   food   clothing       resources     help   families   get   back       feet   1 2,Posiitve,@JeffBezos,367,6897,Spain,2021,11,17,13
+96,2 2     deepest   sympathies         partner   leah         loved   ones     world   lost       soon   glen,Neutral,@JeffBezos,97,1974,Nepal,2021,11,12,23
+97,    tragic   loss   warm     full     life   glen   made   us   laugh     lit       room         visionary       innovator       true   leader   lauren         heartbroken       remember     precious   time     got     spend   together   1 2,Posiitve,@JeffBezos,402,6749,Dominican Republic,2021,11,12,23
+98,leo   come         want     show     something   leodicaprio,Neutral,@JeffBezos,39215,249014,Honduras,2021,11,8,14
+99,ceo     president   drandrewsteer   speaking   last   night       importance       week   3b   commitment     nature,Neutral,@BezosEarthFund,144,1323,Croatia,2021,11,5,13
+100,congrats       important   work   chefjoseandres       say   build   longer   tables     higher   walls   https apple news akqhxh6wdsy2x14km8ah8ca,Posiitve,@JeffBezos,280,2703,Japan,2021,11,5,15
+101,    decision     wanted       respect     court   judgment     wish   full   success     nasa     spacex       contract,Neutral,@JeffBezos,2053,25890,Mozambique,2021,11,4,17
+102,bezosearthfund   announces   3b     nature       cop26   leader   summit     glasgow     funds       targeted       three   fold   agenda   conservation   restoration     food   systems   transformation,Neutral,@BezosEarthFund,445,3016,Iran,2021,11,4,12
+103,  proud       one       founding   funders     prince   william   earthshot   prize     easy     see     passionate     thoughtful           important   work,Posiitve,@JeffBezos,455,5069,United Arab Emirates,2021,11,2,18
+104,listening   learning     collaborating     bold   ideas     leaders     around     world     day   one     cop26     back     work   already   today     jeffbezos   drandrewsteer,Posiitve,@BezosEarthFund,153,1099,Thailand,2021,11,2,11
+105,2 2   transnational   marine   protected   area       planet   covering     area   larger     california   thank         group       boldness       important   work,Posiitve,@JeffBezos,158,1462,Belgium,2021,11,2,11
+106,  cop26   lauren       discussed   conservation     land     sea     leaders     colombia   ecuador   panama   costa   rica     bolivia   together     oversee   one         diverse   regions     earth     bezosearthfund     working         help   create     largest   1 2,Neutral,@JeffBezos,936,4709,Paraguay,2021,11,2,11
+107,wonderful   meeting     tuntiak   katan       shuar   tribe     ecuador     solange   bandiaky badji       rights     resources   institute   indigenous   peoples     custodians         third       world   tropical   forests     must   champion     efforts     protect     planet,Posiitve,@JeffBezos,875,5839,Congo,2021,11,1,15
+108,  prince     wales       involved     fighting   climate   change     protecting     beautiful   world   far   longer             chance     discuss     important   issues       eve     cop26     looking     solutions     heal     world         bezosearthfund     help,Posiitve,@JeffBezos,448,4607,Finland,2021,10,31,21
+109,closing     eyes       still   feel     irresistible   tug     pulling     heart       chest           edge       world     cboshuizen   https www theguardian com science 2021 oct 22 feels go space beautiful dazzling frightening ever imagined,Posiitve,@JeffBezos,254,2799,Romania,2021,10,22,15
+110,bill   audrey   chris   glen           share     experience       forever   change       view     world   godspeed           starts  ,Posiitve,@JeffBezos,829,12260,Ghana,2021,10,13,12
+111,          beginning       miraculous     beginning     williamshatner     ready     go     space   ns18,Neutral,@blueorigin,957,4703,Ecuador,2021,10,12,13
+112,  game,Neutral,@JeffBezos,838,13054,Bosnia and Herzegovina,2021,10,11,14
+113,listen       open       let   anybody   tell                 one       many   stories   telling   us       ways       going     fail   today   amazon     one       world     successful   companies       revolutionized   two   entirely   different   industries,Neutral,@JeffBezos,10652,71322,Senegal,2021,10,11,3
+114,anderson   laughs       whole   interview     bill   shatner     legend,Neutral,@JeffBezos,232,2697,Japan,2021,10,7,15
+115,  lot     still   prove         sure       rivian   team     world   class     rjscaringe     one       greatest   entrepreneurs     ever   met       rj         vans    https www bloomberg com news articles 2021 10 06 amazon pushed rivian van fast lane sref 3bxq9k0u,Posiitve,@JeffBezos,236,2835,Jamaica,2021,10,7,1
+116,new   007   film     amazing     fun   loved         miss   daniel   craig   already     wait     see     barbara   broccoli     michael   wilson   pick   next   https www washingtonpost com goingoutguide movies time die movie review 2021 10 04 4b0686c4 2528 11ec 8d53 67cfb452aa60_story html,Posiitve,@JeffBezos,262,4098,"Korea, North",2021,10,6,14
+117,    simple   admiration,Posiitve,@JeffBezos,191,4001,Sweden,2021,10,3,17
+118,reedhastings     ted   sarandos       team     netflix   get     right     often     internationalization   strategy     easy       making     work   impressive     inspiring         wait     watch     show   https www vulture com article planet squid game netflix biggest show html,Posiitve,@JeffBezos,672,6750,Dominican Republic,2021,10,2,22
+119,2 2     two   articles       8   months   apart   https www bloomberg com news features 2021 01 29 amazon game studios struggles find hit,Neutral,@JeffBezos,93,1502,New Zealand,2021,10,1,13
+120,  many   failures     setbacks     gaming         success     proud       team       persistence   view   setbacks     helpful   obstacles     drive   learning   whatever     goals       give       matter     hard     gets   playnewworld   1 2   https www cnbc com 2021 09 30 new world amazon new smash hit video game html,Neutral,@JeffBezos,520,5293,Cuba,2021,10,1,13
+121,amazon     rewarded   eight   workers     got   vaccinated     free   cars     100 000   payouts   https cnb cx 3zwpmp4,Posiitve,@CNBCtech,133,1180,Saudi Arabia,2021,9,21,23
+122,good   exchange     ideas     climate   change       lot     passion   around   preserving     restoring     natural   world     might   also         side   conversation       better     asimov     clarke     meeting     useful     enjoyable   thank     borisjohnson,Posiitve,@JeffBezos,382,6813,Belize,2021,9,20,22
+123,congratulations     elonmusk       spacex   team       successful   inspiration4   launch   last   night   another   step   towards     future     space     accessible         us,Posiitve,@JeffBezos,6822,122016,France,2021,9,16,16
+124,discussing   climate   sustainability     preserving     natural   world     president   emmanuelmacron   today     paris   bezosearthfund   climatepledge,Neutral,@JeffBezos,2391,30643,Maldives,2020,2,28,17
+125,    took     dna   test   turns       100   lizzo   biggest   fan   sbliv,Neutral,@JeffBezos,13544,115161,Pakistan,2020,2,3,2
+126,hey   alexa     show   everyone     upcoming   super   bowl   ad   thanks   theellenshow     portiaderossi,Posiitve,@JeffBezos,2590,20672,Mali,2020,1,29,17
+127,jamal,Neutral,@JeffBezos,4795,33787,Paraguay,2020,1,22,19
+128,hey   india     rolling       new   fleet     electric   delivery   rickshaws   fully   electric   zero   carbon   climatepledge,Neutral,@JeffBezos,9325,71525,China,2020,1,20,3
+129,proud       program         india     hire     train   deaf   associates       delivery   stations   managers   learn   basic   sign   language       able     communicate   meeting     group       moving   experience    ,Posiitve,@JeffBezos,2408,27093,Kenya,2020,1,19,11
+130,amazon   partners     thousands     kirana   stores       india     delivery   points     good     customers       helps     shop   owners   earn   additional   income   got     visit   one     mumbai   thank     amol     letting     deliver     package   msme,Posiitve,@JeffBezos,2387,26388,Namibia,2020,1,18,7
+131,lots     fun     stage     iamsrk     zoya   akhtar,Posiitve,@JeffBezos,4942,31953,Canada,2020,1,17,11
+132,grabbing     quick   selfie     amitagarwal     india   small   business   summit   everyone   squeeze       little   tighter   amazonsmbhav,Neutral,@JeffBezos,721,12855,Croatia,2020,1,16,10
+133,dynamism   energy   democracy   indiancentury,Neutral,@JeffBezos,3401,19223,Serbia,2020,1,15,14
+134,  landed     india     spent     beautiful   afternoon   paying     respects     someone     truly   changed     world   live             die   tomorrow   learn             live   forever     mahatma   gandhi,Posiitve,@JeffBezos,7960,57248,Canada,2020,1,14,15
+135,toured   leemontessori     washington   c       team     day   1   academies       great     meet     kids       energetic     energizing   lee         amazing   job   unleashing     love     learning,Posiitve,@JeffBezos,475,5526,Malta,2019,12,17,23
+136,picture   perfect   flight   blueorigin       vehicle       flown     space     back   six   times   making       new   milestone     carried   23   payloads   today   including   thousands     postcards     kids         world     clubforfuture   keep     coming   kids       keep   flying  ,Posiitve,@JeffBezos,1339,10905,Morocco,2019,12,12,3
+137,nice   amazon   ranked   1   best   managed   company   definitely     result     strong   teamwork     people     care   deeply     passionately     customers     fellow   employees       environment   huge   thank       kudos       amazonians,Posiitve,@JeffBezos,1045,8887,Slovenia,2019,11,22,21
+138,excited     announce     year   bezos   day   one   grants   thank         32   organizations     23   states   working     end   homelessness     recently   spent   time       amazing   team     community     hope     washington   c     one     last   year   grantees   bezosdayonefund org,Posiitve,@JeffBezos,419,3295,Honduras,2019,11,21,14
+139,congrats     david         veterans   graduating       amazon   apprenticeship   program           technical   careers     join         21 000   veterans     military   spouses   working     amazon   huge   thank               served   veteransday   amazonwarriors,Posiitve,@JeffBezos,478,6253,Bulgaria,2019,11,11,14
+140,  time     go   back       moon     time     stay   lockheedmartin   northropgrumman   draperlab   blueorigin   gradatimferociter,Neutral,@JeffBezos,1352,8501,Spain,2019,10,22,21
+141,dropped         amazonfutureengineer   class     dunbar   h     c   today     committed     bringing     resources     kids     underserved   communities       proud     say       funding   computer   science         2 000   high   schools   across     u   nextgeneration,Posiitve,@JeffBezos,1254,10719,Tunisia,2019,10,21,19
+142,thank         customers     donated   relief   items       second   amazon   air   plane     humanitarian   aid   together       400 000   amazon donated     customer donated   items       provided       affected     hurricanedorian       bahamas       us   amazon com disasterrelief,Posiitve,@JeffBezos,384,4218,Guatemala,2019,9,24,13
+143,  record   year     emmy   wins     primevideo     fantastic   work   huge   congrats       winners     teams   behind   fleabag   maiseltv         english   scandal,Posiitve,@JeffBezos,235,3489,Spain,2019,9,24,1
+144,good   luck     rachelbros   phoebe   waller bridge     maiseltv     fleabag   teams       primevideo   shows       emmys   tonight,Posiitve,@JeffBezos,194,2745,Egypt,2019,9,22,19
+145,      compete     lower   prices     better   services     secretly   fund   phony   grassroots   attack   campaigns   ugly   https www wsj com articles grassroots campaign take amazon funded amazons biggest rivals 11568989838,Negative,@JayCarney,212,1177,"Korea, South",2019,9,20,20
+146,super   excited       climate   pledge   impossible         without   cfigueres     grateful       christiana   climatepledge   paris10yearsearly,Posiitve,@JeffBezos,400,2978,Switzerland,2019,9,19,15
+147,yesterday     first   amazon   air   plane   loaded     relief   items   arrived     nassau   bahamas     help   victims     hurricanedorian     cargo   weight     72 728   lbs     approx   19 300   items     board   huge   thanks       teams   across   amazon     made     happen   amazon com disasterrelief,Posiitve,@JeffBezos,517,4407,Israel,2019,9,17,14
+148,shout         new   amazonians     let     drop       new   hire   orientation   today   incredible     welcome     many   smart     passionate   people           world     looking   forward       amazoncareerday   events   tomorrow,Posiitve,@JeffBezos,287,3937,Argentina,2019,9,16,22
+149,visited     amazing   nia_house   montessori     nashville     mike_m_george   learned     lot     going     help   day   1   academies       way   nia   means   purpose     swahili     cool,Posiitve,@JeffBezos,253,2656,Japan,2019,9,13,14
+150,today     announced       added   24   schools     nashville       amazonfutureengineer   program   loved   celebrating     great   news     building   robots     students     madison   middle   school,Posiitve,@JeffBezos,589,5260,Cameroon,2019,9,11,19
+151,  sending   two   amazon   air   planes   packed     tens     thousands     amazon donated     customer donated   relief   items     support     impacted     hurricanedorian       bahamas   thanks         teams       making     possible   amazon com disasterrelief,Posiitve,@JeffBezos,682,5577,Luxembourg,2019,9,9,14
+152,season   2   streams   november   1     wait   jackryan,Neutral,@JeffBezos,598,7564,Saudi Arabia,2019,9,8,13
+153,rooting     team   india   good   luck   india   chandrayaan2   https www space com india chandrayaan 2 moon south pole landing site html,Posiitve,@JeffBezos,7182,42066,Mexico,2019,9,6,18
+154,blueorigin   founded   nonprofit   clubforfuture     inspire   youth     pursue   careers     stem     visualize   life     space     asked   students     send   postcards   w   dreams       send     cards       kármán   line     space     back     received   thousands         inspiring,Posiitve,@JeffBezos,296,2371,Paraguay,2019,8,29,17
+155,    great   meeting     mike   george     hard     work   building   day   1   academies     mike       busy   learning       best       field           pictures       listening   tour     visiting     smart     kind   early   educators     schools   across     country,Posiitve,@JeffBezos,248,3434,Gambia,2019,8,28,19
+156,4   continues     rack     time       test   stand       great   shot       full   power   engine   test   today   gradatimferociter,Neutral,@blueorigin,421,3398,Jamaica,2019,8,3,2
+157,pride,Posiitve,@JeffBezos,366,4710,Italy,2019,6,30,14
+158,  much   fun     caroline   kennedy   yesterday       jfkspacesummit     father   rice   speech   still   inspires     choose         things           easy           hard   apollo50,Posiitve,@JeffBezos,408,4695,Nigeria,2019,6,20,18
+159,first   hotfire       be7   lunar   landing   engine     yesterday     marshall   space   flight   center   data   looks   great     hardware       perfect   condition   test   went   full   planned   duration     35   seconds   kudos       whole   blueorigin   team     grateful     nasa_marshall         help,Posiitve,@JeffBezos,748,5863,Maldives,2019,6,20,1
+160,happy   father   day           always       feel       love     dad,Posiitve,@JeffBezos,870,18598,Croatia,2019,6,16,15
+161,  mom   incredible   story   wow     grateful     proud   grit,Posiitve,@JeffBezos,499,5249,Qatar,2019,6,10,22
+162,got     chance     scout         cool   tech       first   remars   event   haptx   rivian   hseas   wyssinstitute,Posiitve,@JeffBezos,1167,7270,Turkey,2019,6,6,18
+163,leo   story     amazing           mom   amazonfutureengineer,Posiitve,@JeffBezos,509,3618,Spain,2019,6,6,4
+164,amazonremars         bringing     best     brightest   together       fitting       got     meet   leo     one       first   100   recipients       amazonfutureengineer   scholarship         doubt   leo     going         inventor     tomorrow,Posiitve,@JeffBezos,418,3249,Ireland,2019,6,6,3
+165,mackenzie     going       amazing     thoughtful     effective     philanthropy       proud         letter       beautiful   go   get   em   mackenzie   https givingpledge org pledger aspx id 393,Posiitve,@JeffBezos,893,7908,Sweden,2019,5,28,13
+166,grateful       memorialday       fallen   servicemen     women         families         ultimate   sacrifice     made     defending     supporting     nation     flag       picture       display       factory   wall     blueorigin     remind   us   every   day,Posiitve,@JeffBezos,301,3460,Vietnam,2019,5,27,13
+167,great   annual   shareholder   meeting   today   amazon   https piped video vwso238zoeq,Posiitve,@JeffBezos,238,2105,Finland,2019,5,23,6
+168,  dad   journey       u   shows     people   come   together     help         got     chance     celebrate     last   night       opening       statue     liberty   new   museum         story   bit ly 2hsaru6,Posiitve,@JeffBezos,1905,7958,Philippines,2019,5,16,13
+169,    statue     liberty       dad     honored       liberty   star     part       new   museum   opening       came       cuba     16             alone         spoke   spanish     grit   determination     optimism     inspiring   statueoflibertymuseum,Posiitve,@JeffBezos,2071,15231,Portugal,2019,5,16,1
+170,  investing   1 5   billion       new   air   hub     get       packages   faster   three   million   square   feet       going     create   2 000   jobs         guessing     driving     front   loader     fun     right   amazon   prime,Posiitve,@JeffBezos,1812,11357,"Korea, South",2019,5,14,21
+171,  lucky   enough     call       mom     kind   patient   supportive       always   encouraged       stay   curious   happy   mother   day   mom,Posiitve,@JeffBezos,591,10755,India,2019,5,12,13
+172,blue   origin     building     infrastructure   needed     unleash     next   generation     dreamers     met     young   people   today       future       great   hands   bluemoon   clubforfuture,Posiitve,@JeffBezos,765,4685,Denmark,2019,5,9,23
+173,today     founder   shared     vision     go     space     benefit   earth     must   return       moon   time     stay     ready     support   nasa     getting       2024     bluemoon,Posiitve,@blueorigin,1539,5912,Panama,2019,5,9,22
+174,congrats       whole   blueorigin   team,Posiitve,@JeffBezos,365,3380,Luxembourg,2019,5,3,0
+175,    honor     pleasure     tom   alberg     amazon   board   tom   joined     1996           us   ever   since       22   years     miss     sound   judgment   deep   well     business     life   experience       quick   wit       smart   business   person     even   better   human   thx   tom,Posiitve,@JeffBezos,200,3492,Kazakhstan,2019,4,11,12
+178,thank     festoag     bigger   please     want     get     thinkbig   mars2019,Posiitve,@JeffBezos,1008,7038,Senegal,2019,3,19,13
+179,  written     post     developments       national   enquirer       parent   company   ami       find       https medium com jeffreypbezos thank mr pecker 146e3922310f,Neutral,@JeffBezos,21179,76336,Nigeria,2019,2,7,22
+180,grateful       journalists       washingtonpost     around     world         work     matter     risk     dangers     face   democracydiesindarkness   superbowlad   https wapo st democracydiesindarkness,Neutral,@JeffBezos,5534,25527,Romania,2019,2,4,2
+182,    outstanding   news     ring     2019   former   alexa   vp     long time   amazonian   mike   george     agreed     lead     day   1   academies   fund   mike       true   builder     knows       start     scratch       bring   tremendous   energy   grit     passion       job   thank     mike,Posiitve,@JeffBezos,638,6360,Sweden,2019,1,2,0
+183,excited     announce     first   annual   grants       bezos   day   1   families   fund   97 5   million     24   organizations     needle moving   work     family   homelessness   congrats       recipients       know     spend     money   wisely       heart   https www bezosdayonefund org day1familiesfund,Posiitve,@JeffBezos,988,7062,Australia,2018,11,20,14
+184,    privilege   today     unveiling     newest   amazon   air   767     valor     named     honor       thousands     amazonian   veterans     military   spouses   delivering       customers   every   day   veteransday   amazonwarriors,Posiitve,@JeffBezos,1116,8505,Peru,2018,11,12,23
+185,yep           lucky       exposed     tech     coding       young   age   inspired     lifelong   love     invention     hope     new   amazon   future   engineer   program             kids   today   https www amazonfutureengineer com,Posiitve,@JeffBezos,2063,11318,Laos,2018,11,1,15
+186,amazon         american   foundation       blind   helen   keller   award   huge   kudos       whole   team     working     hard     make     products   accessible       vision   impaired   afb1921,Posiitve,@JeffBezos,392,2666,Taiwan,2018,10,23,14
+187,  sad     hear     paul   allen   passing     passion     invention     pushing   forward   inspired     many       relentless       end     heart   goes       paul   family     friends,Neutral,@JeffBezos,1454,10168,Dominican Republic,2018,10,15,23
+188,thank         usairforce       confidence       blueorigin   team       newglenn   rocket       proud     serve     national   security   space   community       committed     providing   safe   reliable   access     space       nation   gradatimferociter,Posiitve,@JeffBezos,639,4180,Kazakhstan,2018,10,10,21
+189,thank     sensanders     excited         also   hope   others     join  ,Posiitve,@JeffBezos,3081,17307,Belgium,2018,10,2,15
+190,big   win     blueorigin   today       big   thank       ulalaunch     choosing     4   engine   excited         part     vulcan   mission     space   21stcenturyengine   allamericanengine   gradatimferociter,Posiitve,@JeffBezos,443,2661,Denmark,2018,9,27,21
+191,incredible   work       whole   maiseltv   team     8   emmys   wins   including   outstanding   comedy   series   woohoo,Posiitve,@JeffBezos,232,2218,"Korea, South",2018,9,18,17
+193,super   proud       entire   blue   team     came   together     made     happen   nevergetsold   gradatimferociter,Posiitve,@JeffBezos,362,2526,Italy,2018,7,19,0
+194,appreciate     support   mr   vice   president     thrilled     report     west   texas       team   nailed     today   launchlandrepeat,Posiitve,@JeffBezos,210,1992,Maldives,2018,7,19,0
+195,crew   capsule   looks   great   even         pushed   hard       escape   test   astronauts   would         exhilarating   ride     safe   landing   great   engineering       lucky   boots   worked     blueorigin   gradatimferociter,Posiitve,@JeffBezos,478,3845,India,2018,7,18,17
+196,wishing   specialolympics   tennis   competitor     amazonian   leonard   flowers   luck       2018usagames     week   great   event       proud         presenting   sponsor   choosetoinclude,Posiitve,@JeffBezos,335,3404,Latvia,2018,7,1,17
+197,  dad   came       cuba         without   speaking   english         16   years   old         kicking   ass   ever   since   thank           love     heart   dad,Posiitve,@JeffBezos,2641,23523,"Korea, North",2018,6,17,14
+199,  enjoying     day       kids     also   remembering   remembering     many   sons     daughters       given       lives     us         sons     daughters   memorialday   hirevets   hiremilitaryspouses,Posiitve,@JeffBezos,533,5088,Venezuela,2018,5,28,19
+200,tom   wolfe       amazing   journalist     author   thank       showing   us         took         right   stuff,Posiitve,@JeffBezos,326,2723,Palestine,2018,5,16,4
+201,  shaped   us     protected   us     let   us   fall     picked   us         loved   us   always     unconditionally   thank       everything     love     mom,Posiitve,@JeffBezos,493,7546,Slovenia,2018,5,13,15
+202,love     quote           fridge     years       see     every   time     open     door   emerson,Posiitve,@JeffBezos,12956,38585,Cuba,2018,5,5,14
+203,  conanobrien   blueorigin,Neutral,@JeffBezos,1074,6654,Netherlands,2018,5,2,22
+204,highlights     today   mission     miss     nerf   ball         backflips     zero   gravity   gradatimferociter   blueorigin,Neutral,@JeffBezos,1792,6788,Malaysia,2018,4,30,0
+205,  lucky   boots   worked     huge   kudos     thanks       entire   blueorigin   team   gradatimferociter,Posiitve,@JeffBezos,415,3557,Australia,2018,4,29,20
+206,apogee     351 000   feet   66   miles   107   kilometers         altitude       targeting     operations   one   step   closer   gradatimferociter   blueorigin,Neutral,@JeffBezos,395,2934,Russia,2018,4,29,18
+207,launch   preparations     underway     new   shepard   8th   test   flight       continue     progress   toward   human   spaceflight   currently   targeting   sunday   4 29     launch   window   opening       830am   cdt   livestream   info     come   blueorigin   gradatimferociter,Neutral,@JeffBezos,1057,5165,Mozambique,2018,4,27,12
+208,dog   sledding       arctic   circle     norway   jim   lovell   says           go     heaven       die       go     heaven       born   earth       best   planet       solar   system     go     space     save     earth   blueorigin   noplanb   gradatimferociter   earthday,Neutral,@JeffBezos,1133,7890,Poland,2018,4,22,20
+209,honored     speak     thebushcenter   forum     leadership   tonight     ken   hersh     spirit     former   first   lady   barbara   bush       much   felt       event,Posiitve,@JeffBezos,272,2354,Greece,2018,4,21,0
+210,  bestbuy   catching       ceo   hubert   joly     announcing     collaboration       next   generation     smart   tvs     ask       better   partner       product     killer   full   alexa   integration   alexa   watch   abc     alexa   watch   westworld   firetvedition,Neutral,@JeffBezos,846,4408,Gabon,2018,4,18,10
+211,great   reporting   requires   patience   grit       willingness     follow     story   wherever     leads   whether   alabama     moscow   proud     washingtonpost   pulitzer   winners     big   congrats       nytimes     well   democracydiesindarkness   https www washingtonpost com news national wp 2018 04 16 feature washington post wins pulitzer prizes roy moore investigation russia reporting,Posiitve,@JeffBezos,3235,13709,Nicaragua,2018,4,16,23
+212,  love   dwayne   johnson   therock   still   working       smolder   https piped video gjn7 jc7x8w 173,Posiitve,@JeffBezos,361,4184,Japan,2018,4,16,0
+213,  comfortable       kids   giant   panda     email     putting   final   touches       year   annual   shareholder   letter       take     kids     see   rampage,Neutral,@JeffBezos,509,7690,Gabon,2018,4,15,23
+214,  made   pancakes       rainy   seattle   morning     ciara     dangerusswilson     guys       fun         talented   inspiring       russ       ate     weight     pancakes   funfriends,Posiitve,@JeffBezos,523,5408,Maldives,2018,4,14,23
+215,horrible     truly   tragic   day     youtube     google       wishing         best       injured         affected,Negative,@JeffBezos,1850,14643,Thailand,2018,4,3,23
+216,taking     new   dog       walk       mars2018   conference   bostondynamics,Neutral,@JeffBezos,6442,26249,Netherlands,2018,3,19,21
+217,thank         natreconofc             speak       want     even   imagine     world   without     professionals       job    ,Neutral,@JeffBezos,152,1045,Czech Republic,2018,3,15,17
+218,new   test   video     blue   550k   lbf   thrust   ox rich   staged   combustion   lng fueled   4   engine     test       mixture   ratio   sweep     65   power   level     114   seconds     duration   methane     lng     proved         outstanding   fuel   choice   blueorigin   gradatimferociter,Neutral,@JeffBezos,950,4466,Italy,2018,3,13,23
+219,kirk     picard   picard   finalfrontier   goboldly,Neutral,@JeffBezos,817,8150,Central African Republic,2018,3,10,19
+220,happy     announce     amazon   studios     adapting   iain     banks   amazing   culture   series       huge   personal   favorite         tv   series     wait   phx corporate ir net phoenix,Posiitve,@JeffBezos,1256,4774,Nepal,2018,2,21,14
+221,installation     begun 500   ft   tall     mechanical   powered     day night   thermal   cycles   synchronized     solar   noon     symbol     long term   thinking   10000yearclock     coming   together   thx       genius     danny   hillis   zander   rose       whole   clock   team   enjoy     video,Posiitve,@JeffBezos,3406,10192,United Kingdom,2018,2,20,14
+222,best     luck   spacex       falcon   heavy   launch   tomorrow     hoping       beautiful   nominal   flight   blueorigin   gradatimferociter,Posiitve,@JeffBezos,2298,22520,Papua New Guinea,2018,2,5,14
+223,  stunning   perito   moreno   glacier     patagonia     sent   robotic   probes     every   planet       solar   system   earth       far     best   one     go     space     save     earth   blueorigin   noplanb   gradatimferociter,Posiitve,@JeffBezos,2773,13818,Kazakhstan,2018,2,3,14
+224,wishing   best     luck   tonight       marvelous   mrs   maisel   rachel   brosnahan   kevin   bacon         whole   cast     crew       post     goldenglobes,Posiitve,@JeffBezos,271,2601,Serbia,2018,1,8,0
+225,turns       amazon   fulfillment   center   associates     madrid     dance     one   got     big   surprise       end   love  ,Posiitve,@JeffBezos,689,3413,Zambia,2017,12,27,20
+226,first   use       landing   pad   bot   blue2d2   blueorigin,Neutral,@JeffBezos,582,2703,Uruguay,2017,12,15,0
+227,full   video     mannequin   skywalker   ride     space   unlike         able     get         seat       zero   gee   part       flight     ignore     pinging   sound           one       experiments       flight   newshepard   blueorigin   https piped video 6zjghik7_va,Neutral,@JeffBezos,674,2261,Uruguay,2017,12,15,0
+228,newshepard       successful   first   flight     crew   capsule   2 0   today   complete     windows       instrumented   test   dummy         great   ride   blueorigin,Posiitve,@JeffBezos,1682,5591,Belgium,2017,12,13,3
+229,      news   coming       aws   reinvent     week     hope       miss     one   set     guinness   world   record     largest   chicken   wing   eating   competition   nice,Posiitve,@JeffBezos,560,2326,Guatemala,2017,11,30,22
+230,ten   years   ago   today     launched     first ever   kindle   happy   10th   birthday   amazonkindle     thank           kindle   readers     authors,Posiitve,@JeffBezos,1844,8781,New Zealand,2017,11,19,15
+231,amazon   prime   heads     middle   earth   phx corporate ir net phoenix,Neutral,@JeffBezos,3034,7874,"Korea, South",2017,11,13,18
+232,thank         boys       service   casey,Posiitve,@JeffBezos,105,983,Zimbabwe,2017,11,11,0
+233,thank         17 500   veterans     military   spouses     working     amazon     set     goal   last   year     hire   25 000       leaders     2021         track     hire   even     veteransday,Posiitve,@JeffBezos,879,5076,Australia,2017,11,9,14
+234,congrats       bestbuy   team       new   alexa   skill   customers       find     shop   best   buy   deals     alexa   nice,Posiitve,@JeffBezos,362,1727,Serbia,2017,11,3,18
+235,    winner     best   news   website       washingtonpost       big   congrats       whole   team   dmna17,Posiitve,@JeffBezos,453,2670,Bolivia,2017,10,20,18
+236,first   hotfire       4   engine       success   huge   kudos       whole   blueorigin   team       important   step   gradatimferociter,Posiitve,@JeffBezos,660,2815,Greece,2017,10,19,20
+237,fun   day   christening   amazon   latest   wind   farm   renewableenergy,Posiitve,@JeffBezos,4164,15737,Ecuador,2017,10,19,13
+238,long     favorite   novel   teaches   pain     regret     well       think     lived     congrats   mr   ishiguro     earned   nobelprize,Posiitve,@JeffBezos,584,3102,Bulgaria,2017,10,5,16
+239,amazon   plane   packed     donation     critical   supplies   landed   earlier   today     san   juan   thank           amazonians     made     happen,Posiitve,@JeffBezos,3184,14807,Malaysia,2017,10,3,2
+240,thoughts         affected     las   vegas     much   gratitude         police     good   samaritans     put     lives       line     help,Posiitve,@JeffBezos,359,2641,Japan,2017,10,2,20
+241,future   engineer   9 year old   ryan   signs   amazon   gold   robot     helped   build     another   30   days   30   smiles   event   beatpediatriccancer   gogold,Posiitve,@JeffBezos,515,2882,United Kingdom,2017,9,22,19
+242,amazon   supporting   30   days   30   smiles     accorg   today     surprise   visit     blueorigin   beatpediatriccancer,Posiitve,@JeffBezos,408,2264,Central African Republic,2017,9,14,0
+243,alexa     made     new   friend   https www nytimes com 2017 08 30 technology amazon alexa microsoft cortana html,Neutral,@JeffBezos,1699,3897,Serbia,2017,8,30,14
+245,  pleasure     host   secdef   james   mattis     amazon   hq     seattle   today,Posiitve,@JeffBezos,1010,4837,Latvia,2017,8,10,18
+246,  happen       nicer   guy   congratulations   jeffreytambor,Posiitve,@JeffBezos,217,2016,Turkey,2017,8,9,16
+247,awesome   good   luck     weekend   jimmyshane1,Posiitve,@JeffBezos,71,620,Malta,2017,8,5,0
+248,incredible   turnout     see     first   booster   ever     fly     space     land   vertically   upon     earth   blueorigin   oshkosh,Posiitve,@JeffBezos,692,3288,Lithuania,2017,8,2,15
+249,mike   collins   cracking   us       last   night,Neutral,@JeffBezos,141,1246,Kenya,2017,7,17,2
+250,huge   thanks       whole   blueorigin   team   buzz,Posiitve,@JeffBezos,241,1660,Madagascar,2017,7,17,2
+251,going     oshkosh   come   sit   inside   blueorigin   crew   capsule     enjoy     simulated   ride     space   eaa   osh17   https www eaa org en airventure eaa airventure news multimedia eaa airventure news eaa airventure oshkosh 07 10 2017 blue origin bring reusable rocket crew capsule airventure 2017,Neutral,@JeffBezos,470,1981,Israel,2017,7,10,18
+252,      gigantic   compliment       teams   best     luck   haggler       continuing   adventures   customerobsession   https www nytimes com 2017 06 22 insider haggler retires reasons irate customer never end html,Posiitve,@JeffBezos,212,1026,Turkey,2017,7,6,2
+253,terrific   meeting     narendramodi   always   impressed   energized     optimism     invention     india   excited     keep   investing     growing,Posiitve,@JeffBezos,3206,7676,"Korea, North",2017,6,25,18
+254,amazing     share     moment       blueorigin   team       family,Posiitve,@JeffBezos,159,1099,Japan,2017,6,19,14
+255,          dad         lucky   son     love     dad   fathersday,Posiitve,@JeffBezos,152,2804,Singapore,2017,6,18,22
+256,flipping   pancakes   lego   saturn   v   wonder   woman   matinee   love       dad   fathersday,Posiitve,@JeffBezos,184,2531,Jamaica,2017,6,18,22
+257,request     ideas,Neutral,@JeffBezos,8419,19777,Bulgaria,2017,6,15,18
+258,rooftop   solar   panels       1   million square foot   fulfillment   center     baltimore     live   50   solar   fcs     come   online     2020,Neutral,@JeffBezos,619,2781,Hungary,2017,6,14,15
+259,congrats     jeff       long term   leadership   john       size   20   shoes     fill   ge   remains     american   gem   https www washingtonpost com business ge ceo immelt stepping flannery take role 2017 06 12 13d2e08e 4f63 11e7 b74e 0d2785d3083d_story html,Posiitve,@JeffBezos,190,910,Thailand,2017,6,12,18
+260,super   fun   morning   talking   rockets         cool   group     students   great   questions   thx         students       museumofflight,Posiitve,@JeffBezos,143,980,Laos,2017,5,20,18
+261,      lottery       mom   thanks     literally   everything   mom,Posiitve,@JeffBezos,388,4629,Honduras,2017,5,14,21
+262,first   plant       ground     thespheres   39 999     go   public   tours   start   2018,Neutral,@JeffBezos,519,1994,Panama,2017,5,5,0
+263,thanks   therealbuzz     cute   little   guy       future,Posiitve,@JeffBezos,99,807,Dominican Republic,2017,4,1,23
+264,  parents   rock   geekwire com 2017 bezos fami,Posiitve,@JeffBezos,327,2033,Slovakia,2017,3,30,18
+265,impossible     express     personally   meaningful         dream   huge   kudos     blueorigin   team     worked     hard   https naa aero userfiles files documents press 20releases collier 20trophy 202016 pdf,Posiitve,@JeffBezos,288,1273,Bosnia and Herzegovina,2017,3,29,22
+266,    got     pilot     awesome     huge   robot   thanks     hankook   mirae   technology   nice   mars2017,Posiitve,@JeffBezos,2002,5184,Norway,2017,3,20,5
+267,thanks   la   times     choosing   wapo   arc   publishing       digital   platform     kudos     tech   team       post   wapo st latimes,Neutral,@JeffBezos,116,502,Turkey,2017,3,13,17
+268,ok   definitely   want     buy     bottle    ,Posiitve,@JeffBezos,204,1175,Netherlands,2017,3,10,15
+269,adding       newglenn   launch   manifest   agreement     oneweb     five   launches   initially   happy     work       greg_wyler,Posiitve,@JeffBezos,219,898,Thailand,2017,3,8,13
+270,excited     announce       signed     1st   newglenn   customer   welcome       launch   manifest   eutelsat_sa,Posiitve,@JeffBezos,269,1061,Taiwan,2017,3,7,13
+271,  one     shot     4       transport   cradle,Neutral,@JeffBezos,537,1823,Czech Republic,2017,3,6,13
+272,1st   4   engine   fully   assembled   2nd     3rd   following   close   behind   gradatimferociter,Neutral,@JeffBezos,513,1538,Palestine,2017,3,6,13
+273,kudos   palm   coast   stem new   record     tallest   self supporting   toy   tower   5k   pieces   14 1   tall   using   exclusive   toy     amazon   seller   qubits,Neutral,@amazonnews,39,322,Hungary,2017,3,4,22
+274,  cool   7 year old   boy   starts     food   pantry     help   hungry   kids   amzn 2mf7kl1,Posiitve,@amazonnews,144,560,Guatemala,2017,3,1,15
+275,congrats     casey   affleck       best   actor   win     earned   manchesterbythesea   oscars   amazonstudios   mbtsmovie,Posiitve,@JeffBezos,217,1059,Equatorial Guinea,2017,2,27,4
+276,bravo     kenny   lonergan       well deserved   oscars   win     best   original   screenplay   amazonstudios   mbtsmovie,Posiitve,@JeffBezos,120,648,Italy,2017,2,27,4
+277,thesalesman   takes   home     oscar     best   foreign   language   film   well   done   asghar   farhadi     team   amazonstudios   oscars,Posiitve,@JeffBezos,514,1867,Saudi Arabia,2017,2,27,3
+278,excited     share     urban   campus       terrific   organization   farestart,Posiitve,@JeffBezos,162,793,France,2017,2,19,0
+279,love     story   wave3 com story 34498260 4 c       1     4   couples     met     amazon   fc     ky   love         air   happy   valentine   day,Posiitve,@JeffBezos,92,689,Mali,2017,2,14,19
+280,      nypost   article     anybody   knows       get   20   margins     groceries   call    ,Neutral,@JeffBezos,383,1708,Syria,2017,2,7,22
+281,nypost   whoever     anonymous   sources         story   nypost com 2017 02 05 inside       mixed       meds,Neutral,@JeffBezos,392,994,El Salvador,2017,2,7,19
+282,buzz   aldrin   dropped     blue   origin   hq     say   hi       team   yesterday   thanks   therealbuzz,Neutral,@JeffBezos,363,1746,Mexico,2017,2,2,17
+283,asghar   farhadi   amazonstudios   understands     supports     decision       attend     oscars,Posiitve,@RoyPrice,115,422,Egypt,2017,1,30,16
+284,  agree     need     superhighway     space   salon com 2017 01 05 cas,Neutral,@JeffBezos,365,990,Norway,2017,1,5,19
+285,first ever   amazonprimeair   customer   delivery         books   13   min click     delivery   check       video   amzn primeair,Neutral,@JeffBezos,5427,6760,Venezuela,2016,12,14,13
+286,  spheres   first   snow   thanks   macolors       great   pic,Posiitve,@JeffBezos,359,1259,Latvia,2016,12,9,23
+287,thank     john   glenn   godspeed,Posiitve,@JeffBezos,345,1485,Poland,2016,12,8,21
+288,late   late   show   jkcorden     amazon   go       funny   https piped video watch v hkmwfp8_dcs,Posiitve,@JeffBezos,163,631,Belgium,2016,12,8,6
+289,  proud       brother   bit ly 2gzmhkv         ted   talk   bit ly obsdu6,Posiitve,@JeffBezos,151,681,Serbia,2016,12,1,20
+290,love     tv   commercial     amazon   prime     proud       ad   team   https piped video ouu6lggiwsc,Posiitve,@JeffBezos,1536,2738,Ghana,2016,11,17,19
+291,long   wait       clarkson   hammond   may     back   thegrandtour   premieres   tonight     uk   us   de   jp     globally     dec,Neutral,@JeffBezos,2647,6927,"Korea, South",2016,11,17,16
+292,congratulations     realdonaldtrump       one   give         open   mind     wish     great   success       service       country,Posiitve,@JeffBezos,1535,4381,Spain,2016,11,10,15
+293,huffingtonpost com entry ama,Neutral,@JeffBezos,140,632,South Africa,2016,10,30,15
+294,visiting   raisbeck   aviation   high   school   today       inspiring       awesome   students,Posiitve,@JeffBezos,74,421,Japan,2016,10,21,23
+295,stenciling     7th     final   tortoise   onto     hardy     stalwart   new   shepard   capsule   gradatimferociter,Neutral,@JeffBezos,184,838,Romania,2016,10,10,20
+296,steering     violent   maxq   escape   forces       residual   capability     explicitly   engineered         robust   booster   inflightescape,Neutral,@JeffBezos,83,472,Indonesia,2016,10,6,17
+297,  escape   vid     slow   mo   inflightescape   https piped video _zwkvm7hph8,Neutral,@JeffBezos,164,450,Syria,2016,10,6,17
+298,reflecting       incredible   day   toasting     800       passionate   brilliant   folks     blue   origin   inflightescape   gradatimferociter,Posiitve,@JeffBezos,206,1291,Dominican Republic,2016,10,6,3
+299,moment     separation   inflightescape   gradatimferociter,Neutral,@blueorigin,288,840,Jamaica,2016,10,5,19
+300,    one   hell       booster   inflightescape   gradatimferociter   https vine co v 56lbwlwji7a,Neutral,@JeffBezos,2217,4135,Serbia,2016,10,5,18
+301,everything   looking   good     morning     inflightescape   live   webcast     10 45     et   gradatimferociter,Posiitve,@blueorigin,150,365,Georgia,2016,10,5,12
+302,weather   go     tomorrow   new   shepard   inflightescape   test   webcast     wednesday   10 45     et   gradatimferociter,Neutral,@blueorigin,153,258,Austria,2016,10,3,19
+303,        details       escape   test   tinyurl com jcz3r7l   gradatimferociter,Neutral,@JeffBezos,106,330,Bulgaria,2016,9,29,13
+304,dramatic   new   shepard   inflightescape   test   tuesday   oct   4   live   webcast   starts     10 50     et     blueorigin com   gradatimferociter,Neutral,@blueorigin,183,351,New Zealand,2016,9,29,13
+305,      newglenn   descent   configuration   gradatimferociter,Neutral,@JeffBezos,290,786,Croatia,2016,9,26,10
+306,exciting   results     3   weeks     wind   tunnel   testing     newglenn     transonic     supersonic   speeds   validated     cfd,Posiitve,@JeffBezos,329,960,Kenya,2016,9,26,10
+307,thanks   therealbuzz     heinleinprize         fun   night,Posiitve,@JeffBezos,51,322,Croatia,2016,9,15,23
+308,blue   origin   next   step meet   new   glenn   newglenn   gradatimferociter,Neutral,@JeffBezos,1245,2234,Thailand,2016,9,12,13
+309,matteorenzi   excited     announce   amazon   artificial   intelligence     machine   learning   center     turin   bit ly 29rtzj3,Posiitve,@JeffBezos,675,1164,Laos,2016,7,22,14
+310,grazie   matteorenzi     wonderful   conversation     palazzo   vecchio,Posiitve,@JeffBezos,225,595,Madagascar,2016,7,22,14
+311,cool   new   project     smithsonian     autodesk   lets     virtually   explore   apollo   11   command   module   3d si edu apollo11cm,Posiitve,@JeffBezos,170,424,Equatorial Guinea,2016,7,21,15
+312,bucket   list   cast   crew     justin   lin   trailingjohnson     amazing   startrekbeyond   https vine co v 5z21ywelqzr,Posiitve,@JeffBezos,349,1058,Italy,2016,7,20,16
+313,trailingjohnson   amazing   experience   thank  ,Posiitve,@JeffBezos,53,252,Cyprus,2016,7,20,16
+314,careful   engineering   plus     course       lucky   boots   successful   mission   rocketsreused   gradatimferociter,Posiitve,@JeffBezos,189,820,Syria,2016,6,19,15
+315,loading   propellants   looking   good       morning   launch   gradatimferociter,Posiitve,@JeffBezos,106,340,Nepal,2016,6,19,13
+316,thanks   virgingalactic     agree   space   needs       us   gradatimferociter,Neutral,@JeffBezos,133,518,Pakistan,2016,6,19,0
+317,    course     development   test   flight     anything     happen   gradatimferociter,Neutral,@JeffBezos,45,205,Poland,2016,6,17,13
+318,look     one chute   test   starting     7   minutes     flight     continue   pushing   envelope     booster   gradatimferociter,Neutral,@JeffBezos,71,230,Belize,2016,6,17,13
+319,watching     rocket   launch     rocket   landing   might   add     little   extra   fun   w   kids     father   day   gradatimferociter,Posiitve,@JeffBezos,78,294,Czech Republic,2016,6,17,13
+320,new   shepard   launch   set     sunday     10 15     et   live   webcast   starts     9 45     et     blueorigin com   gradatimferociter,Neutral,@JeffBezos,292,418,Equatorial Guinea,2016,6,17,13
+321,replacing   leaking   ring     capsule   nitrogen   gas   pressurization   system   rescheduling   flight     sunday   gradatimferociter,Neutral,@JeffBezos,111,318,Nicaragua,2016,6,16,13
+322,flight     test   one chute   failure   scenario     push   envelope     booster   maneuvers   gradatimferociter,Neutral,@JeffBezos,134,468,Argentina,2016,6,13,13
+323,trying     4th   flight       hardware     friday   live   webcast     blueorigin com   gradatimferociter,Neutral,@JeffBezos,341,751,United States,2016,6,13,13
+324,interested       careerchoice   program   jeffbezos   mentioned     recode   codecon   dm       find         amazon com careerchoice,Neutral,@garciajm3D,61,200,Israel,2016,6,1,2
+325,landing   sequence   caught       gh2   vent   cam   watch     gear   deployment       shadow   gradatimferociter   https piped video watch v jnppdhyd8jo,Neutral,@JeffBezos,237,537,Mexico,2016,5,9,21
+326,thank     flotus             joiningforces     excited     add   25k     amazon   warriors       ranks   https www amazon com p feature ch9nzgzhrjh59ty joiningforces,Posiitve,@JeffBezos,110,341,Ecuador,2016,5,5,20
+327,ridiculously   cute   alexa,Posiitve,@JeffBezos,66,316,Switzerland,2016,4,29,22
+328,champagne   cracked       newsroom   today   congratulations       washingtonpost     pulitzers,Posiitve,@JeffBezos,94,397,Netherlands,2016,4,19,2
+329,  counseled     many     wisdom     warmth       remembered   rest     peace   bill   campbell,Posiitve,@JeffBezos,114,422,Namibia,2016,4,18,22
+330,thank       congrats       friends     colleagues   jeff     andy       well   deserved   amzn 1s0t5gm,Posiitve,@JeffBezos,159,478,Indonesia,2016,4,7,23
+331,heads     readers     new   top       line   kindle   almost   ready   8th   generation   details   next   week,Neutral,@JeffBezos,990,1440,France,2016,4,4,16
+332,video     yesterday   flight     live   bit ly 1y9cqbm   great   view     dramatic   booster   deceleration,Posiitve,@JeffBezos,623,898,Greece,2016,4,3,21
+333,  share   mission   video   including   aerial     soon       able     get     processed gradatimferociter   blueorigin,Neutral,@JeffBezos,112,359,Luxembourg,2016,4,2,15
+334,  gradatim   ferociter   boots   gift       friend       brought   luck   today   launchlandrepeat   blueorigin,Neutral,@JeffBezos,68,364,Ukraine,2016,4,2,15
+335,cc   touchdown   confirmed   launchlandrepeat   blueorigin,Neutral,@JeffBezos,199,482,Qatar,2016,4,2,15
+336,flawless   3   restart     perfect   booster   landing   cc   chutes   deployed   blueorigin,Posiitve,@JeffBezos,270,535,Zimbabwe,2016,4,2,15
+337,liftoff     new   shepard     climbing     apogee   blueorigin,Neutral,@JeffBezos,102,268,Thailand,2016,4,2,15
+338,crew   capsule     locked     ready     flt   tortoises   mark   successful   cc   missions   launchlandrepeat   blueorigin,Neutral,@JeffBezos,134,362,New Zealand,2016,4,2,14
+339,readying   crew   capsule     flt   clear   skies     tx   tracking     morning   launch   launchlandrepeat   blueorigin,Neutral,@JeffBezos,123,364,Zimbabwe,2016,4,2,14
+340,two   university   microgravity   experiments     tomorrow   blueorigin   flight   short   vids   bit ly 22wxadk   bit ly 25bc5bv,Neutral,@JeffBezos,91,230,Guinea,2016,4,1,22
+341,    drone   cameras       air     hopefully     get   good   aerial   footage     share   launchlandrepeat   blueorigin,Posiitve,@JeffBezos,90,270,South Africa,2016,4,1,19
+342,also     new     efficient   rcs   algorithm       crew   capsule   big   performance   win       works   launchlandrepeat   blueorigin,Posiitve,@JeffBezos,50,197,Zambia,2016,4,1,19
+343,pushing     envelope   restarting   3   fast     high   thrust     3600   ft     ground   impact     6   sec     engine     restart     ramp   fast,Neutral,@JeffBezos,68,236,Papua New Guinea,2016,4,1,19
+344,working     fly     tomorrow     vehicle   third   time   launchlandrepeat   blueorigin,Neutral,@JeffBezos,292,654,Netherlands,2016,4,1,19
+345,got     little   help     amazon   robotics     stage   today       hands     seattle     https vine co v ijadiepixrd,Neutral,@JeffBezos,295,731,Colombia,2016,4,1,0
+346,ok           hilarious   echo   video   yet   bit ly 1rpzmtf,Posiitve,@JeffBezos,144,397,Panama,2016,3,29,21
+347,james   hamilton   retrospective     10   years     aws     excellent   bit ly 1v82uth   kudos     congrats       whole   team,Posiitve,@JeffBezos,230,482,Poland,2016,3,15,2
+348,marty   piece   today       inspiring   thank     postbaron   badassreporting,Posiitve,@JeffBezos,52,209,South Africa,2016,2,24,20
+349,hope   somewhere     space time   einstein     seeing     wapo st 20owplg   ligo,Neutral,@JeffBezos,313,658,Panama,2016,2,11,18
+350,mr   prime   minister   matteorenzi         proud     diego   great     italy   kudos       amzn 1xji2d0,Posiitve,@JeffBezos,671,757,Taiwan,2016,2,10,21
+351,nice   blue   origin   team     nominated     time honored   aviation   award     collier   trophy       nominees     bit ly 1kw4sok,Posiitve,@JeffBezos,87,309,Ukraine,2016,2,3,20
+352,    used   rocket   fly   video         technical   details     blueorigin com news   bit ly 1s0rx1t,Neutral,@JeffBezos,677,997,Austria,2016,1,23,3
+353,impressive   launch     spacex     soon   make   falcon   9   landings   routine       good     space   kudos   spacex,Posiitve,@JeffBezos,509,1724,Philippines,2016,1,17,20
+354,believe         ever   tossed       foreign   prison     want   fred   ryan     marty   baron       team   working     get       jasonisfree,Neutral,@JeffBezos,267,661,El Salvador,2016,1,17,14
+355,wheels           iranian   airspace   jason   yegi     mary   aboard   doug   jehl     ali   rezaian   worked   tirelessly       jasonisfree,Neutral,@JeffBezos,262,615,Japan,2016,1,17,14
+356,  yegi       plane   jasonisfree,Neutral,@JeffBezos,47,209,South Africa,2016,1,16,17
+357,grail   risky       works   big   breakthrough     broad   spectrum   early   cancer   detection   brilliant   scientists   bit ly 1ratrfl,Posiitve,@JeffBezos,145,348,Pakistan,2016,1,12,19
+358,congrats   spacex     landing   falcon   suborbital   booster   stage    welcome       club,Posiitve,@JeffBezos,1218,2478,United States,2015,12,22,1
+359,finally   trashed     realdonaldtrump     still   reserve       seat       blue   origin   rocket   senddonaldtospace   bit ly 1opyw5n,Neutral,@JeffBezos,6748,8753,Thailand,2015,12,7,23
+360,  400     happy   rocket   scientists   look   like   bit ly 1lrcpaj,Posiitve,@JeffBezos,457,839,France,2015,12,3,16
+361,breakthrough   energy   coalition         box     way         invent     way     thx     billgates     pulling     together,Neutral,@JeffBezos,224,577,Cuba,2015,11,30,22
+362,  rarest     beasts       used   rocket   controlled   landing     easy     done   right     look   easy   check     video   bit ly 1opyw5n,Posiitve,@JeffBezos,5461,5394,China,2015,11,24,11
